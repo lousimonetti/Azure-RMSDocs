@@ -66,18 +66,6 @@ This standard is used by default by the AIP client.
 > **Classic client only**: If you have the AIP classic client, this may have been [disabled by an administrator](client-admin-guide-customizations.md#dont-protect-pdf-files-by-using-the-iso-standard-for-pdf-encryption).
 > 
 
-### Viewing protected PDFs in Adobe Acrobat Reader
-
-Adobe Acrobat Reader integrates with Microsoft Information Protection solutions, such as Azure Information Protection to provide users with a simplified and consistent experience for classified and/or protected PDFs.
-
-The Adobe Acrobat Reader with Microsoft Information Protection integration is supported for [Windows](#installing-a-protected-pdf-reader-for-windows-or-mac) and [macOS](#installing-a-protected-pdf-reader-for-windows-or-mac).
-
-For more information, see the following blog posts: 
-
-- [General Availability of Adobe Acrobat Reader Integration with Microsoft Information Protection](https://techcommunity.microsoft.com/t5/Azure-Information-Protection/General-Availability-of-Adobe-Acrobat-Reader-Integration-with/ba-p/298396)
-
-- [Adobe reader and Microsoft Information Protection integration FAQs](https://techcommunity.microsoft.com/t5/Microsoft-Information-Protection/Adobe-reader-and-Microsoft-Information-Protection-integration/ba-p/482219)
-
 ## Viewing protected PDFs in Microsoft Edge on Windows or Mac
 
 Microsoft Edge offers built-in support for viewing PDF files that are classified and protected. Use of Microsoft Edge ensures that users can open protected PDF files seamlessly without the need to install or configure any extra settings or software.
@@ -100,6 +88,19 @@ Supported versions include:
 
     :::image type="content" source="../media/edge_open_browser.png" alt-text="Open a protected PDF using Microsoft Edge from the browser using the Open in browser option":::
  
+ ### Viewing protected PDFs in Adobe Acrobat Reader
+
+Adobe Acrobat Reader integrates with Microsoft Information Protection solutions, such as Azure Information Protection to provide users with a simplified and consistent experience for classified and/or protected PDFs.
+
+The Adobe Acrobat Reader with Microsoft Information Protection integration is supported for [Windows](#installing-a-protected-pdf-reader-for-windows-or-mac) and [macOS](#installing-a-protected-pdf-reader-for-windows-or-mac).
+
+For more information, see the following blog posts: 
+
+- [General Availability of Adobe Acrobat Reader Integration with Microsoft Information Protection](https://techcommunity.microsoft.com/t5/Azure-Information-Protection/General-Availability-of-Adobe-Acrobat-Reader-Integration-with/ba-p/298396)
+
+- [Adobe reader and Microsoft Information Protection integration FAQs](https://techcommunity.microsoft.com/t5/Microsoft-Information-Protection/Adobe-reader-and-Microsoft-Information-Protection-integration/ba-p/482219)
+
+
 ## Installing a protected PDF reader for Windows or Mac
 
 To open a protected PDF document on your desktop computer, we recommend that you install the relevant [Microsoft Information Protection (MIP) plug-in for Acrobat and Acrobat Reader](https://go.microsoft.com/fwlink/?linkid=2050049) for your operating system.
